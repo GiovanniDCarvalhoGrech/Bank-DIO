@@ -1,0 +1,14 @@
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.exe
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.deps.json
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.runtimeconfig.json
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.runtimeconfig.dev.json
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.dll
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\bin\Debug\netcoreapp3.1\BANK.pdb
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.csproj.AssemblyReference.cache
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.AssemblyInfoInputs.cache
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.AssemblyInfo.cs
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.csproj.CoreCompileInputs.cache
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.dll
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.pdb
+C:\Users\giova\source\repos\Transferência bancária\Transferência bancária\obj\Debug\netcoreapp3.1\BANK.genruntimeconfig.cache
